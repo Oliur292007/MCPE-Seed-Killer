@@ -172,7 +172,7 @@ def main():
         "ℹ️ Structure predictions and chest loot have not been independently verified.",
         "",
         "━━━━━━━━━━━━━━━━━━━━",
-        "🤖 *Automatically selected by Bedrock Seed Hunter*",
+        "🤖 *Automatically selected by Bedrock Seed Killer*",
     ]
 
     # Post first; save history only after the post succeeds.
